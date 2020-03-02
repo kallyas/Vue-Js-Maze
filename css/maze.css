@@ -496,3 +496,8 @@ a:not( .button )
 {
 	clear: left;
 }
+
+span.made__by {
+    float: left;
+    padding-left: 350px;
+}
