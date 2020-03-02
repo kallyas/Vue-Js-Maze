@@ -1,0 +1,23 @@
+{
+  "name": "Vue-Js-Maze",
+  "version": "1.0.0",
+  "description": "Vue Js Maze",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kallyas/Vue-Js-Maze.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kallyas/Vue-Js-Maze/issues"
+  },
+  "homepage": "https://github.com/kallyas/Vue-Js-Maze#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
