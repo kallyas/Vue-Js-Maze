@@ -52,10 +52,10 @@ a:not(.button){
     height:100%;
     position:relative;
     z-index:0;
-    --color-maze:rgb(27,36,49); 
+    --color-maze:rgb(21,32,43); 
      --color-road:MediumPurple;
-    --color-walls:rgb(27,36,49);
-    --color-player:rgb(27,36,49);
+    --color-walls:rgb(21,32,43);
+    --color-player:rgb(21,32,43);
     --color-bright:white;
     --tile-size:10vmin;
     --tile-border-size:10%;
