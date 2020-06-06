@@ -1,4 +1,7 @@
 # Vue Js Maze
+
+![Jekyll site CI](https://github.com/kallyas/Vue-Js-Maze/workflows/Jekyll%20site%20CI/badge.svg)
+
  This tile-based maze game created with Vue.js
  generates a random maze for each new game. 
  Give it a go, find the white circle!
