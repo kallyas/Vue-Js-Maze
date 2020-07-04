@@ -102,3 +102,22 @@
                 }
             });
             _maze = new Maze(_vue);
+
+            var USERNAME = "kallyasmedia1";
+var AUTOMATE_KEY = "bqEJrKKHWZxaUyTYdN1U";
+var browserstackURL = 'https://' + USERNAME + ':' + AUTOMATE_KEY + '@hub-cloud.browserstack.com/wd/hub';
+
+var capabilities = {
+          
+  'os' : 'Windows',
+  'os_version' : '10',
+  'browserName' : 'Chrome',
+  'browser_version' : '80',
+  'name' : "kallyasmedia1's First Test"
+  
+}
+
+var driver = new webdriver.Builder().
+  usingServer(browserstackURL).
+  withCapabilities(capabilities).
+  build();
